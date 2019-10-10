@@ -1,0 +1,5 @@
+author: GabrielHD55-MrAlecroYT
+main: net.latinplay.practice.Practice
+name: GPractice
+softdepend: [LeaderHeads, GCoins]
+version: 1.2

@@ -1,0 +1,19 @@
+mysql:
+    ip: 158.69.23.30
+    port: 3306
+    database: PracticeDB
+    username: admin
+    password: t%B2uTV4gJ
+reward:
+  - 30/mv add %winner% 1
+Tablist:
+    Enable: true
+    Time-Update: 2
+    header: '&fEstas jugando en &a&lGROY&f&lLAND NETWORK&f'
+    footer: '&fCompra tu rango en &atienda.groyland.net&f'
+spawnLocation: 234.58783839671636, 70.0, -1490.5163123531136, 271.6399, 4.7039595, Lobby
+spawnMin: 487.5, 1.0, -1226.5, 91.42865, 0.0026684075, Lobby
+spawnMax: -31.5, 255.0, -1810.5, 277.02084, 83.73153, Lobby
+editorLocation: 196.67968652517823, 76.0, -1482.4461966559377, 89.39523, -2.4600005, Lobby
+editorMin: 190.69999998807907, 76.0, -1475.699999988079, 186.9535, 25.524275, Lobby
+editorMax: 197.6509460931232, 81.0, -1485.6237390104434, 64.27045, 80.82111, Lobby
